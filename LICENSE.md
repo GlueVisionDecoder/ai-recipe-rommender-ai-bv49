@@ -1,4 +1,4 @@
-# 
+# Premium AI Recipe Recommender preajustes. Con aprendizaje por transferencia y procesamiento en tiempo real — optimizado para el máximo rendimiento.
 
 
 
